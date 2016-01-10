@@ -1,0 +1,78 @@
+#cabecera{
+    width: auto;
+    height: 20%;
+    border: 1px solid #F5FD01;
+    border-radius: 20px;
+    background-color: #F5FD01;
+    text-align: center;
+}
+
+#cuerpo{
+    margin-top: 2%;
+    text-align: center;
+}
+
+nav{
+    width: 20%;
+    padding-bottom: 132%;
+    float: left;
+    border: 1px solid #F75216;
+    border-radius: 20px;
+    background-color: #F75216;
+}
+
+main{
+    width: 77%;
+    height: 100%;
+    border: 1px solid #D5E1B7;
+    border-radius: 20px;
+    background-color: #D5E1B7;
+    float: left;
+    margin-left: 2%;
+    margin-top: 1%;
+    padding-bottom: 2%;
+}
+
+.articulo{
+    background-color: #C0F4EA;
+    border-radius: 10px;
+    width: 70%;
+    padding: 2%;
+    margin-top: 2%;
+    margin-left: 12%;
+}
+
+#subHeader1{
+   background-color: #EBADF6; padding: 2%; border: 1px solid #EBADF6; border-radius: 10px;
+}
+#subTitulo1{
+    background-color: #F7D894; padding: 1%; border: 1px solid #F7D894; border-radius: 10px;
+}
+
+#fecha1{
+    background-color: #C0F4EA; padding: 1%; border: 1px solid #C0F4EA; border-radius: 10px;
+}
+
+#fecha2{
+    background-color: #EBADF6; padding: 2%; border: 1px solid #EBADF6; border-radius: 10px;
+}
+
+footer{
+    background-color: #EBA000; padding: 2%; border: 1px solid #EBA000; border-radius: 10px;
+}
+
+.art-der{
+    background-color: #94F7AD; padding: 1%; border: 1px solid #94F7AD; border-radius: 10px; width: 80%; margin-left: 18%; padding-top: 3%;
+}
+
+#frm_1{
+    background-color: #F5FD01; padding: 2%; border: 1px solid #F5FD01; border-radius: 10px;
+}
+
+#pie{
+    width: 95%;
+    float: left;
+    background-color: #EBADF6; height: 10px; padding-top: 1.5%; margin: 2% 0.2% 0.5% 0%; text-align: center;
+    border: 1px solid #EBADF6;
+    border-radius: 12px;
+}
